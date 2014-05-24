@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remote_debugger", "remote_debugger\remote_debugger.vcproj", "{9A79DC16-7BB7-4364-9F2A-350EAFA06846}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_app", "test_app\test_app.vcproj", "{A836B1DC-4A43-42C6-B026-182C474E815A}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A79DC16-7BB7-4364-9F2A-350EAFA06846}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A79DC16-7BB7-4364-9F2A-350EAFA06846}.Debug|Win32.Build.0 = Debug|Win32
+		{9A79DC16-7BB7-4364-9F2A-350EAFA06846}.Release|Win32.ActiveCfg = Release|Win32
+		{9A79DC16-7BB7-4364-9F2A-350EAFA06846}.Release|Win32.Build.0 = Release|Win32
+		{A836B1DC-4A43-42C6-B026-182C474E815A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A836B1DC-4A43-42C6-B026-182C474E815A}.Debug|Win32.Build.0 = Debug|Win32
+		{A836B1DC-4A43-42C6-B026-182C474E815A}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
