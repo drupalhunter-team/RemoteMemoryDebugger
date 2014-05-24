@@ -19,7 +19,7 @@ To connect to it you can use netcat, i.e.
     
 # Todo
 
-1. Get it working
+1. Get it working - can only modify own process (i.e. the debugger!), might be permissions
 2. Convert from hex on the mm (memory modify) command
 3. Testing
     
